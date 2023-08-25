@@ -1,6 +1,6 @@
 # Hello There! 👋
 
-Specifically dedicated to document my journey in tech. Currently teaching myself on data science and engineering. However, there are possibilities of learning other fields as well in the future. I am open to opportunities, so please contact me throuogh LinkedIn.
+Specifically dedicated to document my journey in tech. Currently teaching myself on data science and engineering. However, there are possibilities of learning other fields as well in the future. I am open to opportunities, so please contact me through this email **earleen.leen@gmail.com** or LinkedIn.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
