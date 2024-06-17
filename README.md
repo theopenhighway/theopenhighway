@@ -1,6 +1,6 @@
 # Hello There! 👋
 
-Specifically dedicated to document my journey in tech. Interested in implementing tech, data and supply chain into my career. I am open to opportunities, so please contact me through this email **earleen.leen@gmail.com** or LinkedIn.
+Specifically dedicated to document my journey in tech. Interested in implementing tech, data and supply chain into my career. I am open to opportunities, so please connect with me through email **earleen.leen@gmail.com** or LinkedIn.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
