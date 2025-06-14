@@ -1,5 +1,5 @@
 # 💫 About Me
-Specifically dedicated to document my journey in tech, data and supply chain/logistics.
+Specifically dedicated to document my journey in tech and data.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/earleen-leen) 
